@@ -1,0 +1,10 @@
+/Users/lillygrella/Vector-DB/Vector-DB-Example/vector_db2/target/debug/deps/libasync_stream-ecc1458de758d1b5.rmeta: /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/lib.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/async_stream.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/next.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/yielder.rs
+
+/Users/lillygrella/Vector-DB/Vector-DB-Example/vector_db2/target/debug/deps/libasync_stream-ecc1458de758d1b5.rlib: /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/lib.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/async_stream.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/next.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/yielder.rs
+
+/Users/lillygrella/Vector-DB/Vector-DB-Example/vector_db2/target/debug/deps/async_stream-ecc1458de758d1b5.d: /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/lib.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/async_stream.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/next.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/yielder.rs
+
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/lib.rs:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/async_stream.rs:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/next.rs:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-stream-0.3.5/src/yielder.rs:
